@@ -86,8 +86,8 @@ e-mail   :  support@circuitsathome.com
 #include <pins_arduino.h>
 #else
 //#include <WProgram.h>
-#include <avr/pgmspace.h>
-#include <avr/io.h>
+//#include <avr/pgmspace.h>
+//#include <avr/io.h>
 #define F(str) (str)
 #endif
 
